@@ -1,6 +1,6 @@
-# Chat App Clone
+# Chat App 
 
-A **Chat App Clone** built with **React**, **TypeScript**, and **Stream**, allowing users to create new channels, engage in conversations, and perform user authentication.
+A **Chat App ** built with **React**, **TypeScript**, and **Stream**, allowing users to create new channels, engage in conversations, and perform user authentication.
 
 ## Features
 
